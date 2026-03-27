@@ -1,2 +1,2 @@
-# databriicks
+# databricks
 Project: Building the Bike Data Lakehouse
